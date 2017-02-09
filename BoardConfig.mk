@@ -72,7 +72,7 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGBA_8888"
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 
 # TWRP Build Flags
-TARGET_RECOVERY_FSTAB := device/yu/lettuce/recovery/etc/twrp.fstab
+TARGET_RECOVERY_FSTAB := device/yu/lettuce/twrp.fstab
 TW_THEME := portrait_hdpi
 RECOVERY_SDCARD_ON_DATA := true
 TW_INCLUDE_CRYPTO := false
